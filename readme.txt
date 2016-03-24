@@ -9,3 +9,5 @@ Git tracks changes.
 Git has a mutable index called stage.
 the authenticity of host 'github.com can't be establishedl'
 Creating a new branch is quick.
+Mad or not
+I lived near an airport and passing plane can be heard night and day. The airport was built years ago, but for some reason, it can not be used then. Last year, however, it came into to be used. Over a hundred people must had been driving away from their homes by the noise. I was one of them left.
