@@ -7,3 +7,4 @@ There was a time when the owners of business or a shop had to pay large sum of m
 Git had a mutable index called stage.
 Git tracks changes.
 Git has a mutable index called stage.
+the authenticity of host 'github.com can't be established'
